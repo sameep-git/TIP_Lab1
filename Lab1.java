@@ -1,20 +1,19 @@
 /****************************************/
 /*	Program Name:		Lab1.java		*/
-/*										*/
+/*							*/
 /*	Student Name:		Sameep Shah		*/
-/*	Semester:			Spring 2023		*/
-/*	Class Section:	    COSC20203-055	*/
+/*	Semester:			Spring 2023	*/
+/*	Class Section:	    COSC20203-055		*/
 /*	Instructor:			Dr. Rinewalt	*/
-/*										*/
+/*							*/
 /*	Program Overview:	Lab #1			*/
-/*										*/
-/*	Input: 								*/
-/* 	Instructions in Assembly or binary	*/
-/*  or Hex								*/
-/*	Output:								*/
-/*  Encode/decode instructions from		*/
-/* Assembly to binary/hex and vice versa*/
-/****************************************/
+/*							*/
+/*	Input: 						*/
+/* 	Instructions in Assembly or binary		*/
+/*  or Hex						*/
+/*	Output:						*/
+/*  Encode/decode instructions from			*/
+/* Assembly to binary/hex and vice versa		*/
 
 import javax.swing.*;
 import java.awt.event.*;
